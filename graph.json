@@ -1,0 +1,32 @@
+{
+  "equations": [
+    {
+      "equation": "sin(x)",
+      "visible": true
+    },
+    {
+      "equation": "cos(x)",
+      "visible": true
+    },
+    {
+      "equation": "tan(x)",
+      "visible": false
+    },
+    {
+      "equation": "A*x",
+      "visible": true
+    },
+    {
+      "equation": "sin(A*x)",
+      "visible": true
+    }
+  ],
+  "constants": {
+    "A": {
+      "value": 3,
+      "min": -6,
+      "max": 14,
+      "step": 1
+    }
+  }
+}
